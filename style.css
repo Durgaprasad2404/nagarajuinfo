@@ -26,6 +26,7 @@ a {
 p {
     font-size: large;
     margin-top: .7rem;
+    padding: 1.3rem;
 }
 
 .name {
@@ -49,6 +50,7 @@ p {
 }
 
 .img-con {
+    margin: 1.2rem .2rem;
     text-align: center;
 }
 
@@ -258,7 +260,7 @@ ul {
     }
 
     p {
-        font-size: x-large;
+        font-size: xx-large;
     }
 
     .designation {
@@ -312,6 +314,10 @@ ul {
         font-size: 3rem;
     }
 
+    .about-con2 {
+        text-align: center;
+    }
+
     .name-scroll {
         font-size: 4rem;
     }
@@ -322,7 +328,9 @@ ul {
     }
 
     p {
-        font-size: 5rem;
+        padding: 1.3rem;
+        font-size: 3rem;
+        text-align: left;
     }
 
     .designation {
@@ -334,7 +342,8 @@ ul {
     }
 
     .about-heading {
-        font-size: 6rem;
+        text-align: center;
+        font-size: 4rem;
     }
 
     .whatsapp {
